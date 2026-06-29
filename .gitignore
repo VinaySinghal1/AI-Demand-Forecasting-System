@@ -1,0 +1,3 @@
+venv
+data/processed/feature_engineered_train.csv
+data/processed/*.csv

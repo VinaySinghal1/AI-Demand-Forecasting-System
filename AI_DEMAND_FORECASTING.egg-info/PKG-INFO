@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: AI-DEMAND-FORECASTING
+Version: 0.0.1
+Author: Vinay Singhal
+Author-email: vinaysinghal7976@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: jupyter
+Requires-Dist: ipykernel
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
